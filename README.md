@@ -1,3 +1,4 @@
+Note: this repo was originally cloned for skeleton code for the purpose of practicing view alignment and adding constraints
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Calculator Layout Boss Challenge
